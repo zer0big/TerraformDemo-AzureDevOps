@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "zero-terraform-demo"
+  default = "zerobig-terraform-demo"
 }
 
 resource "azurerm_resource_group" "main" {
